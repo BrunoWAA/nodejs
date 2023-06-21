@@ -1,5 +1,5 @@
 import http from 'http'
 
-createServer((req, res) => {
+http.createServer((req, res) => {
     res.end('Olá Mundo')
 }).listen(3033)

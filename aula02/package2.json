@@ -1,5 +1,5 @@
 {
-  "name": "aula01",
+  "name": "aula02",
   "version": "1.0.0",
   "description": "",
   "main": "server-1.js",
@@ -8,5 +8,6 @@
     "start": "node --watch server-1.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module"
 }
